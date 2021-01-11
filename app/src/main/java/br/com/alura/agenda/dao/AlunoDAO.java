@@ -78,7 +78,6 @@ public class AlunoDAO extends SQLiteOpenHelper {
                         alunos) {
                     db.execSQL(atualizaIdDoAluno, new String[]{geraUUID(), aluno.getId()});
                 }
-
         }
 
     }

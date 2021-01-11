@@ -91,8 +91,8 @@ public class ListaAlunosActivity extends AppCompatActivity {
 
     @Override
     protected void onResume() {
-        super.onResume();
         carregaLista();
+        super.onResume();
     }
 
     private void buscaAlunos() {

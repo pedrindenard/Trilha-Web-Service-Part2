@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22077489353",
+    "project_id": "formal-landing-300212",
+    "storage_bucket": "formal-landing-300212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22077489353:android:398eb93577dfc764ffcd18",
+        "android_client_info": {
+          "package_name": "br.com.alura.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22077489353-qmmsif0ucn92df2h0dvbmmqgco2tup0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDTcOUYuuYVDisptZQtWxsJsPBJNFa51M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22077489353-qmmsif0ucn92df2h0dvbmmqgco2tup0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
