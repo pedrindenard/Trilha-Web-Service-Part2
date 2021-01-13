@@ -51,7 +51,6 @@ public class ListaAlunosActivity extends AppCompatActivity {
             public void onRefresh() {
                 //carregaLista();
                 sincronizador.buscaTodos();
-                sincronizador.sincronizaAlunosInternos();
                 //swipe.setRefreshing(false);
             }
         });
@@ -78,7 +77,6 @@ public class ListaAlunosActivity extends AppCompatActivity {
 
         registerForContextMenu(listaAlunos);
         sincronizador.buscaTodos();
-        sincronizador.sincronizaAlunosInternos();
     }
 
     private void carregaLista() {
