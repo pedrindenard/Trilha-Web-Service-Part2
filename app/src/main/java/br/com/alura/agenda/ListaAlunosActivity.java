@@ -190,5 +190,4 @@ public class ListaAlunosActivity extends AppCompatActivity {
             }
         });
     }
-
 }
